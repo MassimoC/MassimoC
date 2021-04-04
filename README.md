@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cloud Architectures
-- 🌱 I’m currently learning Bicep
+- 🌱 Passionate about Cloud Technologies
 - 💬 Ask me about Cloud and APIs
-- 📫 How to reach me:  [Twitter](https://twitter.com/mas_que_crippa)
+- ⚡ How to reach me:  [Twitter](https://twitter.com/mas_que_crippa) and  [LinkedIn](https://www.linkedin.com/in/massimocrippa/)
 
 
 <!--
