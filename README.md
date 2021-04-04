@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Hi There](https://raw.githubusercontent.com/MassimoC/MAssimoC/main/imgs/hithere.png)
+
 <!--
 **MassimoC/MassimoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
