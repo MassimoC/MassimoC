@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![Hi There](https://raw.githubusercontent.com/MassimoC/MAssimoC/main/imgs/hithere.png)
+- 🔭 I’m currently working on Cloud Architectures
+- 🌱 I’m currently learning Bicep
+- 💬 Ask me about Cloud and APIs
+- 📫 How to reach me:  [Twitter](https://twitter.com/mas_que_crippa)
+
 
 <!--
 **MassimoC/MassimoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
