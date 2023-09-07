@@ -6,6 +6,9 @@
 
 ### Latest articles
 
+September 2023
+- Two ways of running scheduled tasks on Azure Container Apps : https://massimocrippa.com/blog/f/cron-jobs-on-azure-container-apps
+
 August 2023
 - Enable Observability with OpenTelemetry : https://massimocrippa.com/blog/f/opentelemetry-101
 - Azure Deployment Stacks unleashed : https://massimocrippa.com/blog/f/azure-deployment-stacks-unleashed
