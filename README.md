@@ -6,6 +6,11 @@
 
 ### Latest articles
 
+
+- Karpenter provider for AKS https://massimocrippa.com/blog/f/karpenter-provider-for-aks
+- Will Radius be the new pain-killer for cloud-native developers? https://massimocrippa.com/blog/f/radius-a-first-look
+- RealLife Microsoft Defender for APIs https://massimocrippa.com/blog/f/real-life-microsoft-defender-for-apis
+- MCfS: Empowering Governments with Secure Cloud Innovation  https://massimocrippa.com/blog/f/mcfs-empowering-governments-with-secure-cloud-innovation
 - Dive into Azure Container Apps workload profiles https://massimocrippa.com/blog/f/dive-into-azure-container-apps-workload-profiles
 - Two ways of running scheduled tasks on Azure Container Apps : https://massimocrippa.com/blog/f/cron-jobs-on-azure-container-apps
 - Enable Observability with OpenTelemetry : https://massimocrippa.com/blog/f/opentelemetry-101
