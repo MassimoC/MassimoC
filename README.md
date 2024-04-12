@@ -3,6 +3,7 @@
 - 🌱 Passionate about Cloud Technologies
 - 💬 Ask me about Cloud and APIs
 - ⚡ How to reach me:  [Twitter](https://twitter.com/mas_que_crippa) and  [LinkedIn](https://www.linkedin.com/in/massimocrippa/)
+- 📽️ Co-hosting APIM Hotrod on [YouTube](https://www.youtube.com/@apimhotrod)
 
 ### Latest articles
 
