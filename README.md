@@ -6,6 +6,7 @@
 
 ### Latest articles
 
+- Migrate APIM to compute STv2 https://massimocrippa.com/blog/f/migrate-apim-to-stv2-compute
 - Resiliency policies in Azure Container Apps https://massimocrippa.com/blog/f/resiliency-policies-in-azure-container-apps
 - Karpenter provider for AKS https://massimocrippa.com/blog/f/karpenter-provider-for-aks
 - Will Radius be the new pain-killer for cloud-native developers? https://massimocrippa.com/blog/f/radius-a-first-look
