@@ -7,6 +7,7 @@
 
 ### Latest articles
 
+- LogicApps anywhere comeback : welcome LogicApps Hybrid https://massimocrippa.com/blog/f/logicapps-anywhere-comeback-welcome-logicapps-hybrid
 - AKS Automatic vs THE AKS Checklist https://massimocrippa.com/blog/f/aks-automatic-vs-the-aks-checklist
 - The rise of AI Gateways https://massimocrippa.com/blog/f/the-rise-of-ai-gateways
 - Migrate APIM to compute STv2 https://massimocrippa.com/blog/f/migrate-apim-to-stv2-compute
