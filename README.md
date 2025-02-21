@@ -7,6 +7,8 @@
 
 ### Latest articles
 
+- Scaling Logic Apps Hybrid : https://massimocrippa.com/blog/f/scaling-logic-apps-hybrid
+- 5 Things you shoud know about Logic Apps Hybrid https://massimocrippa.com/blog/f/5-key-things-you-should-know-about-logic-apps-hybrid
 - LogicApps anywhere comeback : welcome LogicApps Hybrid https://massimocrippa.com/blog/f/logicapps-anywhere-comeback-welcome-logicapps-hybrid
 - AKS Automatic vs THE AKS Checklist https://massimocrippa.com/blog/f/aks-automatic-vs-the-aks-checklist
 - The rise of AI Gateways https://massimocrippa.com/blog/f/the-rise-of-ai-gateways
