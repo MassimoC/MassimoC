@@ -7,6 +7,7 @@
 
 ### Latest articles
 
+- Harnessing Serverless GPUs in Azure Container Apps : :https://massimocrippa.com/blog/f/scalable-ai-harnessing-serverless-gpus-in-azure-container-apps
 - Scaling Logic Apps Hybrid : https://massimocrippa.com/blog/f/scaling-logic-apps-hybrid
 - 5 Things you shoud know about Logic Apps Hybrid https://massimocrippa.com/blog/f/5-key-things-you-should-know-about-logic-apps-hybrid
 - LogicApps anywhere comeback : welcome LogicApps Hybrid https://massimocrippa.com/blog/f/logicapps-anywhere-comeback-welcome-logicapps-hybrid
